@@ -1,0 +1,7 @@
+Threads	PeakMemory(MB)	CPU(%)	WallTime(s)	OutputMatch
+1	1549.50		8:06.52	Yes
+2	2659.83		4:00.27	Yes
+4	4392.37		2:13.47	Yes
+8	6880.11		1:55.05	Yes
+16	11234.70		1:50.24	Yes
+32	10959.90		1:48.94	Yes
